@@ -1,0 +1,10 @@
+Prerequisite: Data Path Configuration
+
+Before running the project, please ensure the DATA_PATH variable in scripts/config.py is updated to the absolute path of your website-data directory. 
+
+For example:
+
+DATA_PATH = "C:\\path\\to\\your\\website-data"
+
+Replace "C:\path\to\your\website-data" with the actual full path where your website-data folder is located on your system.
+

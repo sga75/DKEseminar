@@ -1,0 +1,35 @@
+sentence-transformers:
+GitHub: https://github.com/UKPLab/sentence-transformers
+
+scikit-learn:
+Website: https://scikit-learn.org
+GitHub: https://github.com/scikit-learn/scikit-learn
+
+
+Website: https://pytorch.org
+GitHub: https://github.com/pytorch/pytorch
+
+
+Website: https://matplotlib.org
+GitHub: https://github.com/matplotlib/matplotlib
+
+
+Website: https://seaborn.pydata.org
+GitHub: https://github.com/mwaskom/seaborn
+
+
+Docs: https://joblib.readthedocs.io/
+GitHub: https://github.com/joblib/joblib
+
+
+Multinomial Naive Bayes (MNB) and TF-IDF Vectorizer:
+
+Docs: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+TF-IDF: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+GitHub: https://github.com/scikit-learn/scikit-learn
+
+MLPClassifier (Multi-layer Perceptron):
+
+Docs: https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+
+https://scikit-learn.org/stable/supervised_learning.html
